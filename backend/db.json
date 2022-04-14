@@ -1,0 +1,19 @@
+﻿{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Azul",
+      "price": 3.99
+    },
+    {
+      "id": 2,
+      "name": "IPad 7",
+      "price": 3400.00
+    },
+    {
+      "id": 3,
+      "name": "Sansumg S20",
+      "price": 4399.90
+    }
+  ]
+}
